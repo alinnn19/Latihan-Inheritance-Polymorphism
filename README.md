@@ -17,4 +17,6 @@ Polymorphism (Method Overriding):Menggunakan anotasi `@Override` pada method `pr
 ## Library 
 Program ini tidak menggunakan library tambahan
 
-## Hasil 
+## Hasil Output Program
+<img width="475" height="346" alt="image" src="https://github.com/user-attachments/assets/78eb3559-62a3-4d6c-9952-6096bdd309a9" />
+
